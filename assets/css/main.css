@@ -1009,7 +1009,7 @@ form .container .photograph button:last-of-type {
     object-fit: contain;
   }
   .photograph .photograph-img {
-    height: 24.73vw;
+    height: auto;
   }
   form .container {
     margin-top: 174px;
