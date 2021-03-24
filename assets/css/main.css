@@ -1493,7 +1493,7 @@ form .container .photograph button:last-of-type {
     margin-left: 15%;
     width: 100%;
   }
-  .photograph .photograph-img {
+  .photograph video {
     width: 70%;
     height: auto;
   }
