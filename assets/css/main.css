@@ -1488,6 +1488,7 @@ form .container .photograph button:last-of-type {
 }
 @media (max-width: 500) and (min-width: 350) {
   .photograph .photograph-img {
+    width: 60%;
     height: auto;
   }
 }
