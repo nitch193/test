@@ -1496,7 +1496,7 @@ form .container .photograph button:last-of-type {
   .photograph video {
     position: absolute;
     transform: rotate(90deg);
-    transform-origin: bottom;
+    transform-origin: center;
     object-fit: cover;
     width: 100vh;
     height: 100vw;
