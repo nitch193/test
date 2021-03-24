@@ -1007,7 +1007,7 @@ form .container .photograph button:last-of-type {
   }
   video {
     width: 100%;
-    height: 50%
+    height: 50%;
     transform: rotateY(180deg);
   }
   .photograph .photograph-img {
