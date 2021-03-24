@@ -1489,8 +1489,6 @@ form .container .photograph button:last-of-type {
 @media screen and (min-width: 300px) {
   .photograph {
     position: relative;
-    height: 0;
-    overflow: hidden;
   }
   .photograph video {
     position: absolute;
