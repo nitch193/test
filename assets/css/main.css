@@ -1486,7 +1486,7 @@ form .container .photograph button:last-of-type {
     top: 184px;
   }
 }
-@media screen and (min-width: 350px) {
+@media screen and (min-width: 300px) {
   .photograph {
     position: relative;
     height: 0;
