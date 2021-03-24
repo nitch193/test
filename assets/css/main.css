@@ -1006,9 +1006,10 @@ form .container .photograph button:last-of-type {
     flex-basis: 56.25%;
   }
   video {
-    object-fit: contain;
+    height: 100%;
   }
   .photograph .photograph-img {
+    width: 80%;
     height: auto;
   }
   form .container {
