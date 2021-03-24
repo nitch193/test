@@ -1491,7 +1491,7 @@ form .container .photograph button:last-of-type {
     position: relative;
     margin-top: 20px;
     margin-left: 15%;
-    width: 70%;
+    width: 100%;
   }
   .photograph video {
     position: absolute;
@@ -1499,7 +1499,7 @@ form .container .photograph button:last-of-type {
     transform-origin: center;
     object-fit: cover;
     width: 100vh;
-    height: 30vw;
+    height: 100vw;
   }
 }
 
