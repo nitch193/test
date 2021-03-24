@@ -1495,7 +1495,7 @@ form .container .photograph button:last-of-type {
   }
   .photograph video {
     width: 30vh;
-    height: 100vw;
+    height: 30vw;
   }
 }
 
