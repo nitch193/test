@@ -1488,10 +1488,13 @@ form .container .photograph button:last-of-type {
 }
 @media screen and (min-width: 350px) {
   .photograph {
-    height: 30px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 100%;
   }
   .photograph .photograph-img {
-    width: 60%;
+    width: 70%;
     height: auto;
   }
 }
